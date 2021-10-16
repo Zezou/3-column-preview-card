@@ -20,7 +20,7 @@ body {
 .container {
   display: flex;
   flex-direction: row;
-  height: 50%;
+  height: 25rem;;
   margin: 0;
   position: absolute;
   top: 50%;
