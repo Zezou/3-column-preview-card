@@ -53,7 +53,7 @@ body {
   background-color: var(--very-dark-cyan);
 }
 
-.card-img: {
+.card-img {
   transform: scale(0.2%);
 }
 
